@@ -32,8 +32,8 @@ FICHEIRO_EXCEL = "respostas_lote10.xlsx"
 
 
 #%% 5 - Carregar imagens
-imagem1 = Image.open("predio.jpeg/IMG_2537.jpeg")
-imagem2 = Image.open("predio.jpeg/IMG_2538.jpeg")
+imagem1 = Image.open("IMG_2537.jpeg")
+imagem2 = Image.open("IMG_2538.jpeg")
 
 
 #%% 6 - Estilo visual da aplicação
